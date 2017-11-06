@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "811983868710",
+    "firebase_url": "https://beaconscanner-1ad5d.firebaseio.com",
+    "project_id": "beaconscanner-1ad5d",
+    "storage_bucket": "beaconscanner-1ad5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811983868710:android:78f66d93d9d6c4d1",
+        "android_client_info": {
+          "package_name": "sk.zlatohlavek.mobvzadanie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811983868710-mg4q6lspatjcuvar9bd3e7a3er678qna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlOT_q95P4QyuU3sCyYTn9tHbl5hFJKyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
